@@ -25,17 +25,17 @@ Abaixo segue alguns passos sugeridos para criar a aplicação:
 
 | Passo | Completou? |
 | ----- | ---------- |
-|   1. Projeto            | **sim/não** |
-|   2. Layout             |            |
-|   3. Button Listeners   |            |
-|   4. Avaliar Expressão  |            |
-|   5. Alertar inválido   |            |
+|   1. Projeto            | sim |
+|   2. Layout             |      sim      |
+|   3. Button Listeners   |       sim     |
+|   4. Avaliar Expressão  |     sim       |
+|   5. Alertar inválido   |      sim      |
 
 ----------
 ## Dificuldades
 
 Explique de forma resumida as dificuldades que teve e como resolveu.
-
+Tive algumas dificuldades com uma biblioteca que tive que adicionar, porém, depois consegui solucionar o problema adicionando as bibliotecas nas depenências. Assim como tive problemas com o LinearLayout por questões de não conhecer à fundo o funcionamento, porém, problema este também já resolvido, obtendo o layout desejado. 
 > Escreva: "não tive dificuldades" se for o caso e apague o resto
 
 1. **Importar biblioteca X**
